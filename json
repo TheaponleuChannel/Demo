@@ -1,34 +1,6 @@
 {
-    "posts": [
-      { "id": 1, "title": "Post 1" },
-      { "id": 2, "title": "Post 2" },
-      { "id": 3, "title": "Post 3" }
-    ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
-    ],
-    "profile": {
-      "name": "typicode"
-    },
-    "users": [
-        {
-            "id": 1,
-            "name": "Leanne Graham",
-            "username": "Bret",
-            "email": "bM6Yt@example.com",
-            "phone": "1-770-736-8031 x56442",
-            "password": "secret",
-            "address": {
-                "street": "Kulas Light",
-                "suite": "Apt. 556",
-                "city": "Gwenborough",
-                "zipcode": "92998-3874",
-                "geo": {
-                    "lat": "-37.3159",
-                    "lng": "81.1496"
-                }
-            }
-        }
-    ]
+    { "id": 1, "title": "Post 1" },
+  { "id": 2, "title": "Post 2" },
+  { "id": 3, "title": "Post 3" }
+
   }
